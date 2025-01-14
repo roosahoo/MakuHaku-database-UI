@@ -24,7 +24,6 @@ API Integration: The project communicates with a backend API that provides the r
 Backend: SQL Server for storing restaurant and menu data, and an API built to interact with this data.
 Frontend: HTML, CSS, JavaScript (jQuery), and AJAX for the dynamic user interface.
 API: The application communicates with API to retrieve restaurant information based on user queries.
-Deployment: The project is hosted on a server where users can interact with the web interface and retrieve restaurant data in real time.
 
 ## Database Schema
 
