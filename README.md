@@ -1,4 +1,6 @@
-# MakuHaku-Database-UI // SQL, JavaScript, JQuery, JSON, HTML & CSS
+# MakuHaku-Database-UI
+
+# // SQL, JavaScript, JQuery, JSON, HTML & CSS
 
 
 
