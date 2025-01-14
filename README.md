@@ -1,5 +1,5 @@
 # MakuHaku Project
-### // SQL, JavaScript, JQuery, JSON, HTML & CSS
+### // SQL, JavaScript, JQuery, AJAX, HTML & CSS
 
 ## Overview
 
