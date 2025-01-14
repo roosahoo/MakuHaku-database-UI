@@ -5,9 +5,11 @@
 
 The Makuhaku project is an application designed to help users find restaurants that cater to specific dietary needs. The application provides a user-friendly interface where individuals can search for restaurants based on their location and dietary preferences. The project includes a backend database containing restaurant information, menu items, allergens, prices etc.
 
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="makuhakuhakumaku.png" alt="MakuHaku" width="800">
 </div>
+
 
 
 ## Features
@@ -28,9 +30,11 @@ Deployment: The project is hosted on a server where users can interact with the 
 
 The project uses a SQL Server database that stores the following tables:
 
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="makuhaku_database.png" alt="MakuHaku" width="800">
 </div>
+
 
 ## How It Works
 
