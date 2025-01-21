@@ -41,3 +41,6 @@ User Search: The user enters a city name into the search bar and selects dietary
 API Request: The application sends a request to the API, which queries the database to find restaurants that match the city and selected dietary preferences.
 Displaying Results: The results are displayed on the web page, showing a list of matching restaurants with their details.
 Restaurant Details: Users can click on a restaurant to view more information about the menu, allergens, and pricing.
+
+## Project Limitations
+Due to the proprietary nature of the code used in the project, I cannot share the source code.
