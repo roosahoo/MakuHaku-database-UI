@@ -1,4 +1,4 @@
-# MakuHa
+# MakuHak
 ### // SQL, JavaSript, JQuery, AJAX, Bootstrap, HTML & CSS
 
 ## Overview
