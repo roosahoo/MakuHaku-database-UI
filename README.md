@@ -19,6 +19,11 @@ Restaurant Details: Each restaurant's detailed information is available, includi
 Real-Time Filtering: The system filters and returns only restaurants that match the selected dietary preferences.
 API Integration: The project communicates with a backend API that provides the restaurant data from a SQL database. The database contains detailed information about restaurants, their menu items, allergens, and prices.
 
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="makuhaku1.png" alt="MakuHaku" width="800">
+</div>
+
 ## Tech Stack
 
 Backend: SQL Server for storing restaurant and menu data, and an API built to interact with this data.
