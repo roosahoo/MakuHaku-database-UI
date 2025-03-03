@@ -49,7 +49,7 @@ Restaurant Details: Users can click on a restaurant to view more information abo
 
 ## Website
 
-You can visit the website here: [MakuHaku](https://makuhaku-app-dev-gqbqb8hvhuc2cqf3.swedencentral-01.azurewebsites.net/index.html)
+You can visit the website here: [MakuHaku](https://makuhaku-app-dev-gqbqb8hvhuc2cqf3.swedencentral-01.azurewebsites.net/)
 
 ## Project Limitations
 Due to the proprietary nature of the code used in the project, I cannot share the source code.
