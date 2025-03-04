@@ -1,4 +1,4 @@
-# MakuHaku Projec
+# MakuHaku Proje
 ### // SQL, JavaSript, JQuery, AJAX, Bootstrap, HTML & CSS
 
 ## Overview
