@@ -1,4 +1,4 @@
-# MakuHaku Project Versi
+# MakuHaku Project Version 1
 ### // SQL, JavaSript, JQuery, AJAX, Bootstrap, HTML & CSS
 
 ## Overview
